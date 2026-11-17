@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.graphix",
+  "repo": "NDesumeur/neodex-plugin-graphix-phone",
+  "version": "1.0.0",
+  "sha256": "aa2199ddf48e78798051a2c1e131bba0af32633ff9148241a04fe625ce8b02f1",
+  "approvedAt": "2026-11-17T18:40:03.129Z",
+  "neobase": ">=4.0.0",
+  "signature": "joQd0tUNTc3Or0nM8WCv2qtotr55y+ut1k/D7oSOKKXT7AMIi9BFZtGhO8Vx1EIQ0rDixi7fpqk3zuES5CgWCg=="
+}
